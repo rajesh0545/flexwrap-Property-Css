@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+    flex-wrap:wrap;
+    text-align: center;
+    background-color: blue;
+
+}
+
+.flex1{
+    background-color: blue;
+    width:100px;
+    height: 50px;
+    margin: 20px;
+    font-size: 30px;
+}
+
+#flex{
+    color:aqua;
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+}
+
+h2{
+    text-align: center;
+}
